@@ -31,7 +31,8 @@ VD: Đếm số lần xuất hiện của  ký tự a trong một xâu ký tự 
 # 3.Mảng và chuỗi ký tự
 * Một dạng sử dụng con trỏ đặc biệt là việc sử dụng một mảng các biến con trỏ. Khai báo theo mẫu:  
 `type *pointer_array[size];`  
-**vd**:  khai báo	`char *temp[10];`
+**vd**:  khai báo	`char *temp[10];`  
+sẽ khai báo một mảng 10 con trỏ char có thể được dùng để khai báo một mảng để lưu trữ địa chỉ của mười chuỗi ký tự nào đó.
 
 
 
